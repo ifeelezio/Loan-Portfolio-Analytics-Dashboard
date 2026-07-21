@@ -174,15 +174,16 @@ CALCULATE(
 
 ## Page 1 : Loan Default & Overview
 
-![Page1](images/loan_default_and_overview.png)
+![Page1](Images/loan_default_and_overview.png)
+
 
 ## Page 2 : Applicant Demographics & Financial Profile
 
-![Page2](images/desktop2.jpg)
+![Page2](Images/applicant_demographic_and_financial_profile.png)
 
 ## Page 3 : Financial Risk Metrics
 
-![Page3](images/desktop3.jpg)
+![Page3](Images/financial_risk_matrix.png)
 
 ---
 
