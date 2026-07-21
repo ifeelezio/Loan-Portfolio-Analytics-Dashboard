@@ -167,15 +167,14 @@ CALCULATE(
 
 # Snapshot of Dashboard (Power BI Service)
 
-![PowerBI_Service]([images/service1.jpg](https://github.com/ifeelezio/Loan-Portfolio-Analytics-Dashboard/blob/386f08c0c70b3a6053e8e31d44f1e6571aeeb735/Images/power_bi_service.png))
-
+![PowerBI_Service](Images/power_bi_service.png)
 ---
 
 # Report Snapshot (Power BI Desktop)
 
 ## Page 1 : Loan Default & Overview
 
-![Page1](images/desktop1.jpg)
+![Page1](images/loan_default_and_overview.png)
 
 ## Page 2 : Applicant Demographics & Financial Profile
 
