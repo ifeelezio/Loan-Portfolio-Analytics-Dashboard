@@ -167,7 +167,7 @@ CALCULATE(
 
 # Snapshot of Dashboard (Power BI Service)
 
-![PowerBI_Service](images/service1.jpg)
+![PowerBI_Service]([images/service1.jpg](https://github.com/ifeelezio/Loan-Portfolio-Analytics-Dashboard/blob/386f08c0c70b3a6053e8e31d44f1e6571aeeb735/Images/power_bi_service.png))
 
 ---
 
